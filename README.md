@@ -12,5 +12,5 @@
 - **3-unsupervised-kozhiк31/** — обучение без учителя (кластеризация, понижение размерности)
 - **4-text-kozhiк31/** — NLP (векторизация, классификация, quality metrics)
 - **5-image-v2-kozhiк31/** — CV (регрессия/свертки/аугментации/transfer learning)
-- **7-recsys-kozhik31/** - recsys (user-item split, ALS, метрики @K, UMAP-визуализация эмбеддингов)
+- **7-recsys-kozhik31/** — recsys (user-item split, ALS, метрики @K, UMAP-визуализация эмбеддингов)
 
